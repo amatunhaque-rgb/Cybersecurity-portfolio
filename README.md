@@ -1,5 +1,34 @@
 # Cybersecurity-portfolio
 
+#SOC Path Level One TryHackMe
+
+Completed the TryHackMe SOC Level 1 learning path, gaining hands-on experience in a simulated Security Operations Center (SOC) environment. The training focused on security monitoring, log analysis, network traffic analysis, threat detection, and incident investigation using industry-standard tools and technologies.
+
+## Skills
+- Security monitoring and alert triage
+- Log analysis and event investigation
+- Network traffic analysis
+- Threat detection and incident response
+- Windows and Linux security monitoring
+- Phishing and malware analysis
+- Threat intelligence and IOC analysis
+
+## Tools & Technologies
+- SIEM
+- SOAR
+- EDR
+- Splunk
+- Elastic (ELK)
+- Wireshark
+- Snort
+- NetworkMiner
+- Sysmon
+- Windows Event Viewer
+- CyberChef
+- VirusTotal
+- MITRE ATT&CK
+- Linux
+
 # Cloud Computing Security Labs
 
 Hands-on labs completed as part of my Master's in Cybersecurity, focusing on virtualization, containerization, cloud infrastructure, secure cloud architecture, and cloud network security.
@@ -257,29 +286,3 @@ Hands-on labs completed during my Master's in Cybersecurity, focusing on securit
 - Implemented auditing controls to monitor policy compliance.
 - Strengthened knowledge of security governance, risk management, and policy development.
 
-Completed the TryHackMe SOC Level 1 learning path, gaining hands-on experience in a simulated Security Operations Center (SOC) environment. The training focused on security monitoring, log analysis, network traffic analysis, threat detection, and incident investigation using industry-standard tools and technologies.
-
-## Skills
-- Security monitoring and alert triage
-- Log analysis and event investigation
-- Network traffic analysis
-- Threat detection and incident response
-- Windows and Linux security monitoring
-- Phishing and malware analysis
-- Threat intelligence and IOC analysis
-
-## Tools & Technologies
-- SIEM
-- SOAR
-- EDR
-- Splunk
-- Elastic (ELK)
-- Wireshark
-- Snort
-- NetworkMiner
-- Sysmon
-- Windows Event Viewer
-- CyberChef
-- VirusTotal
-- MITRE ATT&CK
-- Linux
