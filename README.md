@@ -1,6 +1,6 @@
 # Cybersecurity-portfolio
 
-#SOC Path Level One TryHackMe
+# SOC Path Level One TryHackMe
 
 Completed the TryHackMe SOC Level 1 learning path, gaining hands-on experience in a simulated Security Operations Center (SOC) environment. The training focused on security monitoring, log analysis, network traffic analysis, threat detection, and incident investigation using industry-standard tools and technologies.
 
