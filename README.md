@@ -29,6 +29,69 @@ Completed the TryHackMe SOC Level 1 learning path, gaining hands-on experience i
 - MITRE ATT&CK
 - Linux
 
+# Security Policy & Standards Labs
+
+Hands-on labs completed during my Master's in Cybersecurity, focusing on security governance, policy development, compliance, business continuity, and auditing.
+
+## Skills
+- Security Policy Development
+- Business Continuity Planning (BCP)
+- Remote Access Policies
+- Security Awareness
+- Separation of Duties
+- Acceptable Use Policies
+- Incident Response Planning
+- Security Governance
+- Policy Framework Development
+- Windows Auditing
+- Event Viewer
+- Compliance Monitoring
+
+## Lab Topics
+
+### Creating a Business Continuity Plan
+- Researched Business Continuity Planning (BCP) principles.
+- Developed a Business Continuity Plan and supporting policy statement.
+
+### Creating a Remote Access Policy
+- Researched remote access security best practices.
+- Developed a Remote Access Policy to support secure remote connectivity.
+
+### Creating a Security Awareness Policy
+- Researched security awareness programs and best practices.
+- Developed a Security Awareness Policy to promote cybersecurity awareness.
+
+### Creating a Separation of Duties Policy
+- Researched separation of duties principles.
+- Developed a policy to reduce organizational risk through role separation.
+
+### Creating an Acceptable Use Policy
+- Researched acceptable use standards.
+- Developed an Acceptable Use Policy outlining appropriate use of organizational resources.
+
+### Creating an Incident Response Policy
+- Researched incident response planning.
+- Developed an Incident Response Policy defining procedures for handling security incidents.
+
+### Defining a Security Policy Framework
+- Researched security governance frameworks.
+- Defined a security policy framework to support organizational security objectives.
+
+### Developing a Security Policy Framework Implementation Plan
+- Researched organizational structures and policy implementation strategies.
+- Developed a plan for implementing a security policy framework.
+
+### Enabling Audit Trails to Monitor Policy Compliance
+- Configured Windows auditing policies.
+- Reviewed logon events using Windows Event Viewer to monitor policy compliance.
+
+## Learning Outcomes
+- Developed organizational security policies aligned with cybersecurity best practices.
+- Applied governance principles to support security and compliance.
+- Created business continuity and incident response documentation.
+- Implemented auditing controls to monitor policy compliance.
+- Strengthened knowledge of security governance, risk management, and policy development.
+
 # Cloud Computing Security Labs
 
 Hands-on labs completed as part of my Master's in Cybersecurity, focusing on virtualization, containerization, cloud infrastructure, secure cloud architecture, and cloud network security.
@@ -222,67 +285,3 @@ Hands-on labs completed during my Master's in Cybersecurity, focusing on cryptog
 - Configured firewall rules to improve network security.
 - Performed reconnaissance and vulnerability discovery using Nmap.
 - Analyzed security events and system logs to support threat detection and incident investigation.
-
-# Security Policy & Standards Labs
-
-Hands-on labs completed during my Master's in Cybersecurity, focusing on security governance, policy development, compliance, business continuity, and auditing.
-
-## Skills
-- Security Policy Development
-- Business Continuity Planning (BCP)
-- Remote Access Policies
-- Security Awareness
-- Separation of Duties
-- Acceptable Use Policies
-- Incident Response Planning
-- Security Governance
-- Policy Framework Development
-- Windows Auditing
-- Event Viewer
-- Compliance Monitoring
-
-## Lab Topics
-
-### Creating a Business Continuity Plan
-- Researched Business Continuity Planning (BCP) principles.
-- Developed a Business Continuity Plan and supporting policy statement.
-
-### Creating a Remote Access Policy
-- Researched remote access security best practices.
-- Developed a Remote Access Policy to support secure remote connectivity.
-
-### Creating a Security Awareness Policy
-- Researched security awareness programs and best practices.
-- Developed a Security Awareness Policy to promote cybersecurity awareness.
-
-### Creating a Separation of Duties Policy
-- Researched separation of duties principles.
-- Developed a policy to reduce organizational risk through role separation.
-
-### Creating an Acceptable Use Policy
-- Researched acceptable use standards.
-- Developed an Acceptable Use Policy outlining appropriate use of organizational resources.
-
-### Creating an Incident Response Policy
-- Researched incident response planning.
-- Developed an Incident Response Policy defining procedures for handling security incidents.
-
-### Defining a Security Policy Framework
-- Researched security governance frameworks.
-- Defined a security policy framework to support organizational security objectives.
-
-### Developing a Security Policy Framework Implementation Plan
-- Researched organizational structures and policy implementation strategies.
-- Developed a plan for implementing a security policy framework.
-
-### Enabling Audit Trails to Monitor Policy Compliance
-- Configured Windows auditing policies.
-- Reviewed logon events using Windows Event Viewer to monitor policy compliance.
-
-## Learning Outcomes
-- Developed organizational security policies aligned with cybersecurity best practices.
-- Applied governance principles to support security and compliance.
-- Created business continuity and incident response documentation.
-- Implemented auditing controls to monitor policy compliance.
-- Strengthened knowledge of security governance, risk management, and policy development.
-
