@@ -1,47 +1,55 @@
-SOC Level 1 – TryHackMe
+# SOC Level 1 – TryHackMe
 
-Completed the TryHackMe SOC Level 1 learning path with hands-on experience in a simulated Security Operations Center environment.
+Completed the TryHackMe SOC Level 1 learning path, gaining hands-on experience in a simulated Security Operations Center environment. Worked with security alerts, logs, network traffic, indicators of compromise, phishing, malware, and incident investigation workflows.
 
-Worked with security alerts, system logs, network traffic, phishing, malware, indicators of compromise, and incident investigation workflows.
+**Core Skills:** Security Monitoring, Alert Triage, Log Analysis, Network Traffic Analysis, Threat Detection, Incident Investigation, IOC Analysis
 
-Skills & Tools: Security Monitoring, Alert Triage, SIEM, SOAR, EDR, Splunk, Elastic (ELK), Wireshark, Snort, NetworkMiner, Sysmon, Windows Event Viewer, CyberChef, VirusTotal, MITRE ATT&CK, Linux, IOC Analysis
+**Tools:** Splunk, Elastic, Wireshark, Snort, NetworkMiner, Sysmon, Windows Event Viewer, CyberChef, VirusTotal, MITRE ATT&CK, Linux
 
-Digital Forensics & Incident Response Labs
+# Security Policy & Standards Labs
 
-Conducted forensic investigations involving disk images, Windows systems, memory, mobile devices, email, and network traffic.
+Completed hands-on governance, compliance, and security policy labs as part of my Master's in Cybersecurity. Developed organizational policies covering business continuity, remote access, security awareness, acceptable use, separation of duties, and incident response.
 
-Created forensic images, verified evidence integrity through hashing, recovered deleted files, analyzed PCAPs and system artifacts, and practiced chain-of-custody procedures.
+Also created a security policy framework and implementation plan, configured Windows auditing, and reviewed Event Viewer logs to monitor policy compliance.
 
-Skills & Tools: FTK Imager, Autopsy, E3, PhotoRec, DumpIt, Wireshark, PCAP Analysis, Windows Registry Analysis, Memory Forensics, Mobile Forensics, Network Forensics, Hash Verification
+**Core Skills:** Security Governance, Policy Development, BCP, Incident Response Planning, Compliance Monitoring, Windows Auditing
 
-Information Security Labs
+# Cloud Computing Security Labs
 
-Completed hands-on labs covering cryptography, network security, threat intelligence, security monitoring, and penetration testing.
+Completed hands-on labs covering virtualization, containerization, private cloud infrastructure, and cloud security. Configured Hyper-V virtual environments and private networks using PowerShell, deployed Docker containers, and configured foundational OpenStack services.
 
-Configured TLS certificates and firewall rules, performed network reconnaissance with Nmap, and investigated security events using Wazuh, Sysmon, and Windows Security Logs.
+Designed secure cloud architecture with Wazuh monitoring and implemented Mutual TLS authentication to secure system communications.
 
-Skills & Tools: TLS, Cryptography, Nmap, Wazuh, Sysmon, Windows Security Logs, Firewall Configuration, Threat Intelligence, Network Security
+**Core Skills:** Cloud Security, Virtualization, Secure Architecture, Network Security, Certificate-Based Authentication
 
-Cloud Computing Security Labs
+**Tools:** Hyper-V, PowerShell, Docker, OpenStack, Wazuh, mTLS
 
-Built and secured virtualized and cloud-based lab environments using Hyper-V, Docker, and OpenStack.
+# Ethical Hacking Labs
 
-Configured virtual networks with PowerShell, deployed containers, designed secure cloud architecture with Wazuh monitoring, and implemented Mutual TLS authentication for secure communications.
+Performed security testing and vulnerability assessment activities in controlled lab environments. Used Metasploit and Meterpreter to exploit intentionally vulnerable systems, analyzed network traffic with Wireshark, and investigated simulated incidents using Wazuh.
 
-Skills & Tools: Hyper-V, PowerShell, Docker, OpenStack, Wazuh, mTLS, Virtualization, Cloud Security, Network Security
+Also assessed pfSense firewall configurations, performed port scanning, and analyzed OpenVAS vulnerability scan results.
 
-Ethical Hacking Labs
+**Core Skills:** Penetration Testing, Vulnerability Assessment, Network Analysis, Firewall Security, Incident Investigation
 
-Performed controlled penetration testing, vulnerability assessment, network analysis, and security incident investigation.
+**Tools:** Metasploit, Meterpreter, Wireshark, Wazuh, OpenVAS, pfSense
 
-Used Metasploit and Meterpreter against intentionally vulnerable systems, analyzed network traffic with Wireshark, assessed pfSense firewall configurations, and reviewed OpenVAS vulnerability scan results.
+# Digital Forensics & Incident Response Labs
 
-Skills & Tools: Metasploit, Meterpreter, Wireshark, Wazuh, OpenVAS, pfSense, Vulnerability Assessment, Penetration Testing, Incident Response
+Completed forensic investigations across Windows, mobile devices, email, system memory, disk images, and network traffic. Created forensic images, verified hash values, recovered deleted files, analyzed PCAPs, and examined system artifacts.
 
-Security Policy & Standards Labs
+Practiced evidence handling procedures including chain of custody, forensic imaging, integrity verification, Registry analysis, email header analysis, and volatile memory acquisition.
 
-Completed cybersecurity governance, compliance, and policy-development labs as part of my Master's in Cybersecurity.
+**Core Skills:** Digital Forensics, Incident Response, Evidence Collection, PCAP Analysis, Registry Analysis, Memory Forensics, Mobile Forensics
 
-Developed Business Continuity, Remote Access, Security Awareness, Separation of Duties, Acceptable Use, and Incident Response policies. Also designed a security policy framework and configured Windows auditing for compliance monitoring.
+**Tools:** FTK Imager, Autopsy, E3, PhotoRec, DumpIt, Wireshark
 
-Skills: Security Governance, Policy Development, Business Continuity Planning, Incident Response Planning, Compliance Monitoring, Windows Auditing
+# Information Security Labs
+
+Completed hands-on labs covering cryptography, network security, penetration testing, and threat intelligence. Generated TLS certificates, configured firewall rules, performed network reconnaissance with Nmap, and investigated security events using Wazuh.
+
+Analyzed Windows Security and Sysmon logs to identify suspicious activity and indicators of compromise.
+
+**Core Skills:** Cryptography, Network Security, Threat Intelligence, Security Monitoring, Log Analysis, Reconnaissance
+
+**Tools:** TLS, Nmap, Wazuh, Sysmon, Windows Security Logs
